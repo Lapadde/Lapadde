@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lapadde&label=Profile%20views&color=0e75b6&style=flat" alt="lapadde" /> </p>
 
-- 🔭 Saya sedang berkuliah di [Universitas Muhammadiyah Parepare](http://www.umpar.ac.id)
+- 🔭 Saya sedang berkuliah di [Universitas Muhammadiyah Parepare](https://umpar.ac.id/)
 
 - 🌱 Saya masih mempelajari **Web Development & Bahasa Pemrograman Python**
 
