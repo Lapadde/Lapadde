@@ -30,14 +30,28 @@
 
 ### 🛠 Tech Stack
 
-#### 🚀 Frontend
-HTML5 • CSS3 • JavaScript • Bootstrap • Tailwind CSS • React • Vue
+<h2 align="center">🚀 Tech Stack</h2>
 
-#### ⚙️ Backend & Database
-PHP • Python • MySQL • PostgreSQL • MongoDB • Redis
+<h3>Frontend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,tailwind" />
+</p>
 
-#### ☁️ Tools & DevOps
-Docker • Azure • Bash • Heroku
+<h3>Backend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php" />
+</p>
+
+<h3>Database</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</p>
+
+<h3>DevOps & Tools</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,azure,bash,heroku" />
+</p>
+
 
 ---
 
